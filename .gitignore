@@ -6,3 +6,5 @@
 *.zip
 *.rar
 bitcoin_data/*
+nlp/*
+pdf/*
